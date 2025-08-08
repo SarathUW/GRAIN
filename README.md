@@ -8,7 +8,7 @@ A Random Forest classifier is used to differentiate between man-made canals and 
 Dataset is available for download at [Zenodo - GRAIN v.1.0](https://doi.org/10.5281/zenodo.16748791) <br>
 GRAIN is made available as country level files in GeoParquet and ESRI shapefile formats. All GRAIN files are projected to EPSG:4326, based on the WGS-84 datum. Users are recommended to download the GeoParquet files due to the significant smaller file size.
 
-The methodology and validation is described in : [Suresh, S., Hossain, F., Mishra, V., Hossain, N., 2025. GRAIN - Global Registry of Agricultural Canal Networks, Earth System Science Data](https://www.earth-system-science-data.net/) <b style="color:orange;">*Submitted for review</b></p>
+The methodology and validation is described in : [Suresh, S., Hossain, F., Mishra, V., Hossain, N., 2025. GRAIN - Global Registry of Agricultural Canal Networks, Earth System Science Data](https://www.earth-system-science-data.net/) <b style="color:orange;">*Submitted for review</b>
 
 GRAIN workflow: <br>
 <img src="./assets/images/fig_workflow.png" alt="logo" width="1000" height="auto">
